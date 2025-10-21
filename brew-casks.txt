@@ -1,13 +1,17 @@
 1password
 1password-cli
 alfred
+apifox
 arc
 asana
 claude-code
 easydict
 figma
+font-jetbrains-mono-nerd-font
 git-credential-manager
 github
+hoppscotch
+iterm2
 orbstack
 qspace-pro
 rectangle
