@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- 任务标识符 -->
+    <key>Label</key>
+    <string>com.homebrew.backup</string>
+
+    <!-- 执行的程序 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/ggg/private/homebrew/update-backup.sh</string>
+    </array>
+
+    <!-- 工作目录 -->
+    <key>WorkingDirectory</key>
+    <string>/Users/ggg/private/homebrew</string>
+
+    <!-- 标准输出重定向 -->
+    <key>StandardOutPath</key>
+    <string>/Users/ggg/private/homebrew/launchd.log</string>
+
+    <!-- 标准错误重定向 -->
+    <key>StandardErrorPath</key>
+    <string>/Users/ggg/private/homebrew/launchd-error.log</string>
+
+    <!-- 定时执行：每天下午 3:00 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>15</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- 启动时运行一次 -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- 环境变量 -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+</dict>
+</plist>

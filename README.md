@@ -13,6 +13,10 @@
 - **vscode-config/keybindings.json**: 快捷键配置
 - **vscode-config/snippets/**: 代码片段目录
 
+### ⏰ 定时任务配置
+- **com.homebrew.backup.plist**: launchd 定时任务配置文件
+- **update-backup.sh**: 备份执行脚本
+
 > 💡 **实时同步**: VS Code 配置文件使用符号链接方式，修改会立即同步到 Git 仓库
 
 ## 定时任务
@@ -25,14 +29,17 @@
 # 查看任务状态
 launchctl list | grep com.homebrew.backup
 
+# 手动触发定时任务（推荐）
+launchctl kickstart -k gui/$(id -u)/com.homebrew.backup
+
+# 手动执行备份脚本
+/Users/ggg/private/homebrew/update-backup.sh
+
 # 停止定时任务
 launchctl unload ~/Library/LaunchAgents/com.homebrew.backup.plist
 
 # 重新加载定时任务
 launchctl load ~/Library/LaunchAgents/com.homebrew.backup.plist
-
-# 手动执行备份
-/Users/ggg/private/homebrew/update-backup.sh
 ```
 
 ### 日志文件
@@ -167,7 +174,37 @@ cp vscode-config/settings.json "$HOME/Library/Application Support/Code/User/"
 cp vscode-config/keybindings.json "$HOME/Library/Application Support/Code/User/"
 ```
 
-### ✅ 第四步：验证恢复结果
+### ✅ 第四步：恢复定时任务（可选）
+
+**恢复自动备份定时任务：**
+
+```bash
+# 进入备份目录
+cd ~/homebrew-backup  # 或 /Users/ggg/private/homebrew
+
+# 复制定时任务配置文件
+cp com.homebrew.backup.plist ~/Library/LaunchAgents/
+
+# 修改配置文件中的路径（如果备份目录不同）
+# 编辑 ~/Library/LaunchAgents/com.homebrew.backup.plist
+# 将所有 /Users/ggg/private/homebrew 替换为实际路径
+
+# 加载定时任务
+launchctl load ~/Library/LaunchAgents/com.homebrew.backup.plist
+
+# 验证定时任务已加载
+launchctl list | grep com.homebrew.backup
+
+# 手动触发一次测试
+launchctl kickstart -k gui/$(id -u)/com.homebrew.backup
+```
+
+**定时任务说明：**
+- ✅ 每天下午 3:00 自动执行备份
+- ✅ 自动导出 Brewfile 和软件列表
+- ✅ 自动提交并推送到 GitHub
+
+### ✅ 第五步：验证恢复结果
 
 ```bash
 # 检查已安装的命令行工具
@@ -184,6 +221,9 @@ brew doctor
 
 # 验证 VS Code 配置（如果已恢复）
 cat "$HOME/Library/Application Support/Code/User/settings.json" | head -5
+
+# 验证定时任务（如果已恢复）
+launchctl list | grep com.homebrew.backup
 ```
 
 ### 🔧 常见问题处理
