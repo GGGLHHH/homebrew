@@ -14,7 +14,7 @@ hoppscotch
 iterm2
 orbstack
 qspace-pro
-rectangle
+rectangle-pro
 slack
 snipaste
 stats

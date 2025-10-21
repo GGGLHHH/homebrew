@@ -29,6 +29,7 @@ python@3.14
 readline
 simdjson
 sqlite
+starship
 tree
 ugrep
 uv
