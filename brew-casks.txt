@@ -4,6 +4,7 @@ alfred
 apifox
 arc
 asana
+claude-code
 easydict
 figma
 font-jetbrains-mono-nerd-font
