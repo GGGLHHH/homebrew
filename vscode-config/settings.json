@@ -433,5 +433,6 @@
 
   // 外部终端使用 iTerm2
   "terminal.external.osxExec": "iTerm.app",
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.donotShowInfoMsg": true
 }
