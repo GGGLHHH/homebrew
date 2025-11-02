@@ -6957,8 +6957,8 @@
       "skip_livecheck": false,
       "installed": "1.117.0,69739",
       "installed_time": 1760913191,
-      "bundle_version": "69942",
-      "bundle_short_version": "1.118.0",
+      "bundle_version": "70075",
+      "bundle_short_version": "1.119.0",
       "outdated": false,
       "sha256": "93a25d53628abc76a1846f6df3d6a2ae2129318037028e5218554ff5cc381994",
       "artifacts": [
@@ -9024,6 +9024,103 @@
       "ruby_source_path": "Casks/s/stats.rb",
       "ruby_source_checksum": {
         "sha256": "4e29828a1c47f1530726c1fdbfcbcc4ff7727762d7cef9485ac0b7acaf009229"
+      }
+    },
+    {
+      "token": "sunloginclient",
+      "full_token": "sunloginclient",
+      "old_tokens": [],
+      "tap": "homebrew/cask",
+      "name": [
+        "Sunlogin Client",
+        "向日葵个人版"
+      ],
+      "desc": "Remote desktop control and monitoring tool",
+      "homepage": "https://sunlogin.oray.com/",
+      "url": "https://d-cdn.oray.com/sunlogin/mac/SunloginClient_16.0.0.22931_arm64.dmg",
+      "url_specs": {},
+      "version": "16.0.0.22931",
+      "autobump": true,
+      "no_autobump_message": null,
+      "skip_livecheck": false,
+      "installed": "16.0.0.22931",
+      "installed_time": 1762025443,
+      "bundle_version": null,
+      "bundle_short_version": null,
+      "outdated": false,
+      "sha256": "dcca75965c295137cfb624bb02ca397f0859f3e2de912aadd9f2688441b3f593",
+      "artifacts": [
+        {
+          "uninstall": [
+            {
+              "launchctl": [
+                "com.oray.sunlogin ()",
+                "com.oray.sunlogin.agent",
+                "com.oray.sunlogin.desktopagent",
+                "com.oray.sunlogin.helper",
+                "com.oray.sunlogin.service",
+                "com.oray.sunlogin.startup"
+              ],
+              "quit": "com.oray.sunlogin.macclient",
+              "pkgutil": [
+                "com.oray.sunlogin.macclient",
+                "com.oray.sunlogin.MacVirtualAudioDevice"
+              ],
+              "delete": "/Applications/SunloginClient.app"
+            }
+          ]
+        },
+        {
+          "pkg": [
+            "SunloginClient.pkg"
+          ]
+        },
+        {
+          "postflight": null
+        },
+        {
+          "zap": [
+            {
+              "delete": "/private/var/log/sunlogin/",
+              "trash": [
+                "~/Library/Caches/com.oray.sunlogin.macclient",
+                "~/Library/Preferences/com.oray.sunlogin.macclient.plist",
+                "~/Library/Saved Application State/com.oray.sunlogin.macclient.savedState",
+                "~/Library/WebKit/com.oray.sunlogin.macclient",
+                "~/protocol_config.conf",
+                "~/Sunlogin Files"
+              ]
+            }
+          ]
+        }
+      ],
+      "caveats": null,
+      "depends_on": {
+        "macos": {
+          ">=": [
+            "10.15"
+          ]
+        }
+      },
+      "conflicts_with": null,
+      "container": null,
+      "rename": [],
+      "auto_updates": null,
+      "deprecated": false,
+      "deprecation_date": null,
+      "deprecation_reason": null,
+      "deprecation_replacement_formula": null,
+      "deprecation_replacement_cask": null,
+      "disabled": false,
+      "disable_date": null,
+      "disable_reason": null,
+      "disable_replacement_formula": null,
+      "disable_replacement_cask": null,
+      "tap_git_head": "20f43420ed996e8dcdd48cea0f2f837628a35f0d",
+      "languages": [],
+      "ruby_source_path": "Casks/s/sunloginclient.rb",
+      "ruby_source_checksum": {
+        "sha256": "5a053a43483d3fded5eeee47155ae6caf21099239c64a54ae7c41d85699c3f58"
       }
     },
     {
