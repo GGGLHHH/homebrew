@@ -7006,8 +7006,8 @@
       "skip_livecheck": false,
       "installed": "8.11.14",
       "installed_time": 1760870803,
-      "bundle_version": "8.11.16.385989",
-      "bundle_short_version": "8.11.16",
+      "bundle_version": "8.11.18.390990",
+      "bundle_short_version": "8.11.18",
       "outdated": false,
       "sha256": "3a8699c3c21f81015a53c16d2c8ad5790c51ee200cb7e3d601905bf53b16943b",
       "artifacts": [
@@ -7393,8 +7393,8 @@
       "skip_livecheck": false,
       "installed": "1.117.0,69739",
       "installed_time": 1760913191,
-      "bundle_version": "70500",
-      "bundle_short_version": "1.120.0",
+      "bundle_version": "70772",
+      "bundle_short_version": "1.121.0",
       "outdated": false,
       "sha256": "02eca68c11a8bd6154aca455b1e03acb0305fbe5266e7abd84b209be0ac15418",
       "artifacts": [
@@ -9581,8 +9581,8 @@
       "skip_livecheck": false,
       "installed": "1.105.1",
       "installed_time": 1760870756,
-      "bundle_version": "1.105.1",
-      "bundle_short_version": "1.105.1",
+      "bundle_version": "1.106.0",
+      "bundle_short_version": "1.106.0",
       "outdated": false,
       "sha256": "ed73be63c4fce44786394cbcb6b696b7e30e161b4298f429d1b7a763a649092e",
       "artifacts": [
@@ -9762,8 +9762,8 @@
       "skip_livecheck": false,
       "installed": "4.1.0.34,29721",
       "installed_time": 1760912478,
-      "bundle_version": "30516",
-      "bundle_short_version": "4.1.2",
+      "bundle_version": "31252",
+      "bundle_short_version": "4.1.4",
       "outdated": false,
       "sha256": "90622436d1d6b0955e590d5c28aa0e417db037c88a8a1a12d9b9e08470cfef76",
       "artifacts": [

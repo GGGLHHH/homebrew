@@ -435,5 +435,6 @@
   "terminal.external.osxExec": "iTerm.app",
   "extensions.ignoreRecommendations": true,
   "liveServer.settings.donotShowInfoMsg": true,
-  "githubPullRequests.pullBranch": "never"
+  "githubPullRequests.pullBranch": "never",
+  "python.analysis.typeCheckingMode": "standard"
 }
