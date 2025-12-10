@@ -14,7 +14,6 @@ git
 github-mcp-server
 go
 gofumpt
-icu4c@77
 icu4c@78
 jq
 krb5
