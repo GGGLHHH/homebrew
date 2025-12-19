@@ -38,6 +38,7 @@ readline
 ripgrep
 rustup
 simdjson
+sqlc
 sqlite
 starship
 tree
