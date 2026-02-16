@@ -98,7 +98,7 @@
         "interval": 86400,
         "require_root": true
       },
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/a/asimov.rb",
       "ruby_source_checksum": {
         "sha256": "8c29f6b2bb903fc8406194d0e5860f1790eac6b9a649e3819f3cc83ff48de810"
@@ -227,7 +227,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/b/bacon.rb",
       "ruby_source_checksum": {
         "sha256": "e1312a885399a49092949cdc7e935cd3a8316e8c9dfb53dac2ccbc7ed4930353"
@@ -397,7 +397,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/b/bash.rb",
       "ruby_source_checksum": {
         "sha256": "5a5a429678c07db798df974bfa3f09c3b250a31469c1fd34843d6452aa219694"
@@ -532,7 +532,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/b/brotli.rb",
       "ruby_source_checksum": {
         "sha256": "1c32f38ce41b1b812e4ca7e10de5a2fcbe6af0fe97c1b51a13206d2dac296f6f"
@@ -667,7 +667,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/c/c-ares.rb",
       "ruby_source_checksum": {
         "sha256": "d0ae2000325603d2daa1042655e8f4fd42dbf5a1151b6e52915c5ff581f15ed5"
@@ -770,7 +770,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/c/ca-certificates.rb",
       "ruby_source_checksum": {
         "sha256": "6ff911459c42e04b7c63f9cebd573d15b0128f49c6b07e2039a56ff38f3df8f1"
@@ -918,7 +918,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/d/duti.rb",
       "ruby_source_checksum": {
         "sha256": "3f221a6c6b76797d98312ce426ab9dfc4c432d008e55cd75f94dcd2b5c9360d3"
@@ -1068,7 +1068,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/f/fish.rb",
       "ruby_source_checksum": {
         "sha256": "357cb14c1637dd84a4ff46c69cf048cfa0426956eb043d12000b9dcaed934828"
@@ -1207,7 +1207,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/f/fzf.rb",
       "ruby_source_checksum": {
         "sha256": "572c2125a0a7135d0b8c694621492df588bfd0d727ea229d46c348f541521c2e"
@@ -1352,7 +1352,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/gettext.rb",
       "ruby_source_checksum": {
         "sha256": "32965bd5b315f99bb0929b1099b7bde9d3371c4ebd0acb3d286c71c143527a53"
@@ -1478,7 +1478,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/gh.rb",
       "ruby_source_checksum": {
         "sha256": "6cf9e62ce7244ca7f9b17e1d129b48dccd423c653a18b65bbea8b01e48752a70"
@@ -1656,7 +1656,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/git.rb",
       "ruby_source_checksum": {
         "sha256": "af878192ff8be80ae14f7a1e84038d61fe5120e043044e9be5f56434d4370623"
@@ -1791,7 +1791,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/github-mcp-server.rb",
       "ruby_source_checksum": {
         "sha256": "0c7563f25801e2d0886389618ff3de8bd6e4c183d03388e3af95cfc0b2b5ed02"
@@ -1947,7 +1947,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/go.rb",
       "ruby_source_checksum": {
         "sha256": "6a6de0a113b478bbcee7a996fc3db988a04de0917ea69b73621af8cb22276625"
@@ -2082,7 +2082,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/g/gofumpt.rb",
       "ruby_source_checksum": {
         "sha256": "5d01f6e44f608aac629102d4b192bd0ba2c5c06c109f9f31d6f44b2d4bf1dc74"
@@ -2220,7 +2220,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/i/icu4c@78.rb",
       "ruby_source_checksum": {
         "sha256": "5d148ac6f2f884f57539284e9779dda563badc0565001afcd0024fc5e7f2e38d"
@@ -2365,7 +2365,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/j/jq.rb",
       "ruby_source_checksum": {
         "sha256": "6accc6c2e0c3eef2c4bd4e1628d5015b0caebda30f3a386d9141a3b57bb5f13c"
@@ -2529,7 +2529,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/k/krb5.rb",
       "ruby_source_checksum": {
         "sha256": "f9b6bb3d819550c2654ce9f79378af31ebbfaffca22e9019aeba79841eba0d30"
@@ -2669,7 +2669,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libiconv.rb",
       "ruby_source_checksum": {
         "sha256": "01a755529d447df9fad56ce29c531c47e01cd298e372b7edfa531e40b1a9ad44"
@@ -2803,7 +2803,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libnghttp2.rb",
       "ruby_source_checksum": {
         "sha256": "029e8d9343c3965b0f1e95f28599e24d86c8a0d1f05b69645698938a5d986dec"
@@ -2943,7 +2943,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libnghttp3.rb",
       "ruby_source_checksum": {
         "sha256": "276103e3839af3e4fc66ce2a21ec5ab74d24d70e3181b3c9d3744eb59dc426b8"
@@ -3097,7 +3097,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libngtcp2.rb",
       "ruby_source_checksum": {
         "sha256": "497b7984361558c7ee07f6090178aa5a3ca68bb82dc0db29232bfe954aee3419"
@@ -3225,7 +3225,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libunistring.rb",
       "ruby_source_checksum": {
         "sha256": "fafe689bd5a36f27ae898fcc53b7ab72466b14ea649cc880e2dee19cf3ec76fd"
@@ -3352,7 +3352,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/lib/libuv.rb",
       "ruby_source_checksum": {
         "sha256": "c5f8e78b37ec9e651f143969e62f6ac1334e194d04a712854c19e62057779940"
@@ -3515,7 +3515,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/l/lz4.rb",
       "ruby_source_checksum": {
         "sha256": "befc4a1ead0d44e71245e1e90efcf232ff53a144016daa7ae3af316fffd604c6"
@@ -3676,7 +3676,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/m/mkcert.rb",
       "ruby_source_checksum": {
         "sha256": "081dc0f5b5b3ec2deb376b7a896786b3726e8afd4dbb78096c3355e5d35dbc08"
@@ -3826,7 +3826,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/m/mpdecimal.rb",
       "ruby_source_checksum": {
         "sha256": "9ea35cbb13a77cc2e45cb0731b341dc9b9bec8b27e18b149549be91ff2677a13"
@@ -3948,7 +3948,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/n/ncurses.rb",
       "ruby_source_checksum": {
         "sha256": "9432b45efebf5586c17a5db936633af4032f4c1d710ef2a895bca73e9a240bc4"
@@ -4181,7 +4181,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/n/ni.rb",
       "ruby_source_checksum": {
         "sha256": "af64a644b20eceb5c9e90d2168cba40eba0016181e53615360765e006efdc255"
@@ -4611,7 +4611,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/n/node.rb",
       "ruby_source_checksum": {
         "sha256": "a46c682742d8b008595bf771ae07adea79e061bf0cd7486cad42a38316df6860"
@@ -4758,7 +4758,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/o/oniguruma.rb",
       "ruby_source_checksum": {
         "sha256": "000d1e69c6152004cb90bc20f3dbe0e2873eca43d471e4f067e16c362c307158"
@@ -4925,7 +4925,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/o/openssl@3.rb",
       "ruby_source_checksum": {
         "sha256": "2e36e533d2c94c49ff45a5a87eb76759e3500538e4dfa5db42382fd76dc8d159"
@@ -5063,7 +5063,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/p/pcre2.rb",
       "ruby_source_checksum": {
         "sha256": "520f6f15b47cd5e0fa03c921ed5d7bd29f8b11ab460d04202451c52a8435c071"
@@ -5212,7 +5212,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/p/pnpm.rb",
       "ruby_source_checksum": {
         "sha256": "166f1004aaab43d7977cb7e3f2167db7bf6ef38581644835e3d03b82d886a4a4"
@@ -5430,7 +5430,7 @@
         "log_path": "/opt/homebrew/var/log/postgresql@14.log",
         "error_log_path": "/opt/homebrew/var/log/postgresql@14.log"
       },
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/p/postgresql@14.rb",
       "ruby_source_checksum": {
         "sha256": "67619ab04c7862b5da9cdc42149098d44220cb743e949f3ff64f185db0a97cd1"
@@ -5629,7 +5629,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/p/python@3.11.rb",
       "ruby_source_checksum": {
         "sha256": "c651bed173d519ee024b109baeab1e5805d5c430e3d3418831956eb0d80a2386"
@@ -5765,7 +5765,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/r/readline.rb",
       "ruby_source_checksum": {
         "sha256": "103ccb91886fbf3ea74f18a5e3103269d6de5ade7dfc42cd7a3b021f9f90d794"
@@ -5906,7 +5906,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/r/ripgrep.rb",
       "ruby_source_checksum": {
         "sha256": "9f49b1dadc2d82e47c2b52d9cb7b57eec232b3fe83fcfa4a61bdd43bed5a709e"
@@ -6062,7 +6062,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/r/rustup.rb",
       "ruby_source_checksum": {
         "sha256": "d46c1f1e8682b87530f4caa9f787382bfd28addeebca4a3306272f4138698e04"
@@ -6197,7 +6197,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/s/simdjson.rb",
       "ruby_source_checksum": {
         "sha256": "549728bcddc580188209ec24427cae0160aa981882997167553815e792938fa4"
@@ -6332,7 +6332,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/s/sqlc.rb",
       "ruby_source_checksum": {
         "sha256": "813fa2e4c70259422bc3aab9000c6f6292a8e28508dc70f1d21fcd15843f870b"
@@ -6486,7 +6486,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/s/sqlite.rb",
       "ruby_source_checksum": {
         "sha256": "93a0ab486b8a8cb6cce9a9a329377acc1d23bd205cfd8dbeef6f09cded8bc508"
@@ -6614,7 +6614,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/s/starship.rb",
       "ruby_source_checksum": {
         "sha256": "47b76d769875bcf773871308e86faa90c559f42a9185897fa4ec55a7acd3575d"
@@ -6742,7 +6742,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/t/tree.rb",
       "ruby_source_checksum": {
         "sha256": "3e3149e5f29adcd2157553b2bf61311cc7e5095a9e06b357a96ffadc8ac189fe"
@@ -6912,7 +6912,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/u/ugrep.rb",
       "ruby_source_checksum": {
         "sha256": "7d04c605bec2345be9af96391919a30c1ee0ed2df629e17cc9e285b82a5b95c8"
@@ -7049,7 +7049,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/u/uv.rb",
       "ruby_source_checksum": {
         "sha256": "363b1b814c200c39170babed2c5f28ed2850a9d692f12f0bc89bfc7cc6cbb96e"
@@ -7195,7 +7195,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/u/uvwasi.rb",
       "ruby_source_checksum": {
         "sha256": "9506603963768fc229d0dc0455bbb969cb9a9e08a64de2733908284238d9057f"
@@ -7333,7 +7333,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/x/xz.rb",
       "ruby_source_checksum": {
         "sha256": "b5d16c6bd6f3c6f031ea1f7cf7e7f989333261dfb79569eae8e0e8e95836c503"
@@ -7435,7 +7435,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/y/yarn.rb",
       "ruby_source_checksum": {
         "sha256": "eb78d57a21b7091544800aacc9aa32498382caa03a48a25ee8f4d9641a1129a0"
@@ -7593,7 +7593,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "f4676b33b6edb57cfccce8cfe0a06f9580ba24af",
+      "tap_git_head": "f01dcfdf982a76b794809d8058389a16810cada0",
       "ruby_source_path": "Formula/z/zstd.rb",
       "ruby_source_checksum": {
         "sha256": "78f2f803f82b99c7504995e2cf49ed62d9ce926b89fe02bbfefe54c5a5578aa6"
@@ -7703,7 +7703,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/1/1password.rb",
       "ruby_source_checksum": {
@@ -7777,7 +7777,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/1/1password-cli.rb",
       "ruby_source_checksum": {
@@ -7859,7 +7859,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/a/alfred.rb",
       "ruby_source_checksum": {
@@ -7929,7 +7929,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/a/another-redis-desktop-manager.rb",
       "ruby_source_checksum": {
@@ -8002,7 +8002,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/a/apifox.rb",
       "ruby_source_checksum": {
@@ -8086,7 +8086,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/a/arc.rb",
       "ruby_source_checksum": {
@@ -8159,7 +8159,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/a/asana.rb",
       "ruby_source_checksum": {
@@ -8237,7 +8237,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/c/claude-code.rb",
       "ruby_source_checksum": {
@@ -8310,7 +8310,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/c/codex.rb",
       "ruby_source_checksum": {
@@ -8383,7 +8383,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/d/droid.rb",
       "ruby_source_checksum": {
@@ -8458,7 +8458,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/e/easydict.rb",
       "ruby_source_checksum": {
@@ -8606,7 +8606,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/f/figma.rb",
       "ruby_source_checksum": {
@@ -9141,7 +9141,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/font/font-j/font-jetbrains-mono-nerd-font.rb",
       "ruby_source_checksum": {
@@ -9224,7 +9224,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/g/git-credential-manager.rb",
       "ruby_source_checksum": {
@@ -9321,7 +9321,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/g/github.rb",
       "ruby_source_checksum": {
@@ -9421,7 +9421,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/g/google-chrome.rb",
       "ruby_source_checksum": {
@@ -9509,7 +9509,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/i/iterm2.rb",
       "ruby_source_checksum": {
@@ -9632,7 +9632,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/o/orbstack.rb",
       "ruby_source_checksum": {
@@ -9720,7 +9720,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/q/qq.rb",
       "ruby_source_checksum": {
@@ -9798,7 +9798,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/q/qspace-pro.rb",
       "ruby_source_checksum": {
@@ -9880,7 +9880,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/r/rectangle-pro.rb",
       "ruby_source_checksum": {
@@ -9976,7 +9976,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/s/slack.rb",
       "ruby_source_checksum": {
@@ -10053,7 +10053,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/s/snipaste.rb",
       "ruby_source_checksum": {
@@ -10070,9 +10070,9 @@
       ],
       "desc": "System monitor for the menu bar",
       "homepage": "https://github.com/exelban/stats",
-      "url": "https://github.com/exelban/stats/releases/download/v2.11.66/Stats.dmg",
+      "url": "https://github.com/exelban/stats/releases/download/v2.11.67/Stats.dmg",
       "url_specs": {},
-      "version": "2.11.66",
+      "version": "2.11.67",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -10081,7 +10081,7 @@
       "bundle_version": "745",
       "bundle_short_version": "2.11.63",
       "outdated": false,
-      "sha256": "8f99c45a9bc718328616e6903630e8da14944fa07ec7095aba58160bfb333ef4",
+      "sha256": "ea26a695ef2b5b690aeb117896867fc82e11d6b82ef96b917257ef2ec6510561",
       "artifacts": [
         {
           "uninstall": [
@@ -10138,11 +10138,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/s/stats.rb",
       "ruby_source_checksum": {
-        "sha256": "3addd387d1f1e55c7ef514c7d19ad1feb5dad64e13627fbe4dde43d3c33f1b06"
+        "sha256": "59baac8ffc728e5c43daaac8487a5703ca93912c26cf68aeec8c55b77a1b11a6"
       }
     },
     {
@@ -10235,7 +10235,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/v/visual-studio-code.rb",
       "ruby_source_checksum": {
@@ -10323,7 +10323,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/w/webstorm.rb",
       "ruby_source_checksum": {
@@ -10413,7 +10413,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "4e7ad44ac4a4bc2426df0917e1727a293cd048ce",
+      "tap_git_head": "abd1934242326f688a8d470adbdb839c18e6ca02",
       "languages": [],
       "ruby_source_path": "Casks/w/wechat.rb",
       "ruby_source_checksum": {
