@@ -8,6 +8,7 @@ asana
 cc-switch
 claude-code
 codex
+codex-app
 droid
 easydict
 figma
