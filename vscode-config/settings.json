@@ -446,5 +446,6 @@
 
   // Git 配置
   "git.decorations.enabled": true,
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "go.toolsManagement.autoUpdate": true
 }

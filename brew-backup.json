@@ -8562,8 +8562,8 @@
       "skip_livecheck": false,
       "installed": "2.4.1",
       "installed_time": 1760912123,
-      "bundle_version": "2.4.1",
-      "bundle_short_version": "2.4.1",
+      "bundle_version": null,
+      "bundle_short_version": null,
       "outdated": false,
       "sha256": "086f0dd28a291f1d7affbe99d725eee799951c25917cd7ff5a021e1a7c4210da",
       "artifacts": [
@@ -8788,8 +8788,8 @@
       "skip_livecheck": false,
       "installed": "26.224.1209",
       "installed_time": 1772045109,
-      "bundle_version": "697",
-      "bundle_short_version": "26.224.1209",
+      "bundle_version": "720",
+      "bundle_short_version": "26.226.940",
       "outdated": false,
       "sha256": "5b0911cbf51542ba88dda62d827943270d4e140bd9b209137cac5279a8968fa8",
       "artifacts": [
