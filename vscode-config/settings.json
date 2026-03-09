@@ -429,6 +429,7 @@
   },
   "terminal.integrated.fontSize": 12,
   "terminal.integrated.gpuAcceleration": "on",
+  "terminal.integrated.enableKittyKeyboardProtocol": false,
   "terminal.integrated.scrollback": 10000,
 
   // 外部终端使用 iTerm2
