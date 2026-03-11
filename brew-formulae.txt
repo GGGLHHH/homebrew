@@ -31,7 +31,7 @@ mkcert
 mpdecimal
 ncurses
 ni
-node
+node@22
 oniguruma
 openssl@3
 pcre2
@@ -42,6 +42,7 @@ readline
 ripgrep
 rustup
 simdjson
+simdutf
 sqlc
 sqlite
 starship
