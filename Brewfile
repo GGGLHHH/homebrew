@@ -12,7 +12,6 @@ brew "go"
 brew "gofumpt"
 brew "jq"
 brew "mkcert"
-brew "ni"
 brew "node@22", link: true
 brew "pnpm"
 brew "postgresql@14"

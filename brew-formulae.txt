@@ -1,4 +1,3 @@
-ada-url
 asimov
 bacon
 bash
@@ -7,7 +6,6 @@ c-ares
 ca-certificates
 duti
 fish
-fmt
 fzf
 gettext
 gh
@@ -15,7 +13,6 @@ git
 github-mcp-server
 go
 gofumpt
-hdrhistogram_c
 icu4c@78
 jq
 krb5
@@ -25,12 +22,10 @@ libnghttp3
 libngtcp2
 libunistring
 libuv
-llhttp
 lz4
 mkcert
 mpdecimal
 ncurses
-ni
 node@22
 oniguruma
 openssl@3
