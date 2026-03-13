@@ -28,6 +28,7 @@ mpdecimal
 ncurses
 node@22
 oniguruma
+opencode
 openssl@3
 pcre2
 pnpm

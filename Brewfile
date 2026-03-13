@@ -1,3 +1,4 @@
+tap "anomalyco/tap"
 tap "farion1231/ccswitch"
 brew "asimov", restart_service: :changed
 brew "bacon"
@@ -24,6 +25,7 @@ brew "tree"
 brew "ugrep"
 brew "uv"
 brew "yarn"
+brew "anomalyco/tap/opencode"
 cask "1password"
 cask "1password-cli"
 cask "alfred"
