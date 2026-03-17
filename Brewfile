@@ -1,5 +1,6 @@
 tap "anomalyco/tap"
 tap "farion1231/ccswitch"
+brew "agent-browser"
 brew "asimov", restart_service: :changed
 brew "bacon"
 brew "bash"
@@ -13,7 +14,7 @@ brew "go"
 brew "gofumpt"
 brew "jq"
 brew "mkcert"
-brew "node@22", link: true
+brew "node@22"
 brew "pnpm"
 brew "postgresql@14"
 brew "python@3.11"
