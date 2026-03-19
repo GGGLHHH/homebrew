@@ -458,5 +458,6 @@
     "https://json-schema.org/": true,
     "https://developer.microsoft.com/json-schemas/": true,
     "https://biomejs.dev": true
-  }
+  },
+  "terminal.integrated.initialHint": false
 }
