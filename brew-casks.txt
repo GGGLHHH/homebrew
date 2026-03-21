@@ -5,7 +5,9 @@ another-redis-desktop-manager
 apifox
 arc
 asana
+athas
 cc-switch
+clash-verge-rev
 claude-code
 codex
 codex-app
