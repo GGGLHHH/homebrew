@@ -6,6 +6,7 @@ apifox
 arc
 asana
 athas
+caffeine
 cc-switch
 clash-verge-rev
 claude-code
