@@ -138,19 +138,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/a/ada-url.rb",
       "ruby_source_checksum": {
         "sha256": "7051f306a15da92b6929c451f859328c96f1d9d998bcce7fc3961cd9d6083e66"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -164,17 +155,17 @@
       "license": "Apache-2.0",
       "homepage": "https://agent-browser.dev/",
       "versions": {
-        "stable": "0.21.4",
+        "stable": "0.22.0",
         "head": null,
         "bottle": true
       },
       "urls": {
         "stable": {
-          "url": "https://registry.npmjs.org/agent-browser/-/agent-browser-0.21.4.tgz",
+          "url": "https://registry.npmjs.org/agent-browser/-/agent-browser-0.22.0.tgz",
           "tag": null,
           "revision": null,
           "using": null,
-          "checksum": "e1fb3e494733a7b5bc9fa9f19803534f4158183d224e6cbaa854521944a087c0"
+          "checksum": "a7322961d54f262e9ae4995c5734dd0d301f1ea52f2b1c7bcd599c2854a3bcfa"
         }
       },
       "revision": 0,
@@ -190,33 +181,33 @@
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac",
-              "sha256": "ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c",
+              "sha256": "30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac",
-              "sha256": "ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c",
+              "sha256": "30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac",
-              "sha256": "ec60500b96d8b534d07b887832445544cdb90903542da9d0eb10d63d475ba1ac"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c",
+              "sha256": "30539497f7b46c4be4a30556c2c4eb631ba578e023cf91d555120b9890be276c"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:b14fd9d4005a323c0254561b47e3b86a6a2a4b1d3f026fdf7b433d7f31bb72f4",
-              "sha256": "b14fd9d4005a323c0254561b47e3b86a6a2a4b1d3f026fdf7b433d7f31bb72f4"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:d3bb20b2a53828e6c21d40a6c4725f5a724eda9d15d07ca4f6de609fb211b605",
+              "sha256": "d3bb20b2a53828e6c21d40a6c4725f5a724eda9d15d07ca4f6de609fb211b605"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:5a787234369b7458e456f9a2d50c7b4dd0a17593c16376fef60d73a980b4bb81",
-              "sha256": "5a787234369b7458e456f9a2d50c7b4dd0a17593c16376fef60d73a980b4bb81"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:acc2a1524243b50b113d8b0add05adb887601ea7ed695d0411dc3c0149c87a26",
+              "sha256": "acc2a1524243b50b113d8b0add05adb887601ea7ed695d0411dc3c0149c87a26"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:66caca5ceb0e8e60abc4b4bb93fe1dd4f43b1f0e873572cbd0c1330a74a372fb",
-              "sha256": "66caca5ceb0e8e60abc4b4bb93fe1dd4f43b1f0e873572cbd0c1330a74a372fb"
+              "url": "https://ghcr.io/v2/homebrew/core/agent-browser/blobs/sha256:5daed088ef1d169c7abe6f93a7a84c6aeee8d91e0a5cd31a66567905bf15c668",
+              "sha256": "5daed088ef1d169c7abe6f93a7a84c6aeee8d91e0a5cd31a66567905bf15c668"
             }
           }
         }
@@ -422,7 +413,7 @@
       ],
       "linked_keg": "0.21.4",
       "pinned": false,
-      "outdated": false,
+      "outdated": true,
       "deprecated": false,
       "deprecation_date": null,
       "deprecation_reason": null,
@@ -437,10 +428,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/a/agent-browser.rb",
       "ruby_source_checksum": {
-        "sha256": "87eda20f35f127baa0a8b7ae22fea508927cb53b10a8d64c6f565e5221921024"
+        "sha256": "88294fb44dba70bc16ce5bfde0f29d32b4f181e63aa884c36864a724cfb4756b"
       }
     },
     {
@@ -541,7 +532,7 @@
         "interval": 86400,
         "require_root": true
       },
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/a/asimov.rb",
       "ruby_source_checksum": {
         "sha256": "8c29f6b2bb903fc8406194d0e5860f1790eac6b9a649e3819f3cc83ff48de810"
@@ -670,19 +661,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/b/bacon.rb",
       "ruby_source_checksum": {
         "sha256": "e1312a885399a49092949cdc7e935cd3a8316e8c9dfb53dac2ccbc7ed4930353"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -840,19 +822,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/b/bash.rb",
       "ruby_source_checksum": {
         "sha256": "829f1ee4cce33c70272850a07f2bf12f89bf6a52695b703526df84b045b477e1"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -975,19 +948,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/b/brotli.rb",
       "ruby_source_checksum": {
         "sha256": "93505d7431bb04deab0ebf7a7cb44e05a936df1c4af84f92df68fdcae1db5473"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1110,19 +1074,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/c/c-ares.rb",
       "ruby_source_checksum": {
         "sha256": "b3942c4c6522ca0bc5b45238bff9257d9a2eda7f7daee858b3a3fbd0ecee507d"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1223,7 +1178,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/c/ca-certificates.rb",
       "ruby_source_checksum": {
         "sha256": "2a310f81a1eb693aee0277cf8563d247e763f569feeb3bba1db526f6c6cd18cf"
@@ -1371,19 +1326,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/d/duti.rb",
       "ruby_source_checksum": {
         "sha256": "bd0af6f36a98d24b418b5ae759d1e32f6823ec41d73091ad733982efe217e532"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1521,19 +1467,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/f/fish.rb",
       "ruby_source_checksum": {
         "sha256": "0dfa0af314669a0090c47ca23b445fe93a60529ce63237af6ce1f8cbbc94c0ea"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1658,19 +1595,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/f/fmt.rb",
       "ruby_source_checksum": {
         "sha256": "56b128367a9d2a7c45ec79c57b49454e091c7ddae5e016ffb4d835cad59d434e"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1797,19 +1725,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/f/fzf.rb",
       "ruby_source_checksum": {
         "sha256": "540916ad941ac01f8936f35ca85b7d6622a966e129dfc9cf2a22ebfdd505e874"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -1942,7 +1861,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/gettext.rb",
       "ruby_source_checksum": {
         "sha256": "755f50e469476b90c7174d386ff37dc59239dcc3dbfd792e3ec552c053b94154"
@@ -2068,19 +1987,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/gh.rb",
       "ruby_source_checksum": {
         "sha256": "8d3db284c7c1521f00aee4e41fdbf073d16f30dd94722eb5173257d06bd26a52"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -2112,7 +2022,7 @@
           "using": null
         }
       },
-      "revision": 0,
+      "revision": 1,
       "version_scheme": 0,
       "compatibility_version": null,
       "autobump": true,
@@ -2120,38 +2030,38 @@
       "skip_livecheck": false,
       "bottle": {
         "stable": {
-          "rebuild": 1,
+          "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:822dc9a395af7f1977ae98bd584f76ccd7390381de71b5420a4b0d69b15665cf",
-              "sha256": "822dc9a395af7f1977ae98bd584f76ccd7390381de71b5420a4b0d69b15665cf"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:48d11e6aaf34cd77ccc23d6d44b9792cc6599853352fd22dc70f018307d91ad6",
+              "sha256": "48d11e6aaf34cd77ccc23d6d44b9792cc6599853352fd22dc70f018307d91ad6"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:e54c3b8416ce766df9c6efa6f96f14c6fe43cd805e3da2706c258b5d9520c93b",
-              "sha256": "e54c3b8416ce766df9c6efa6f96f14c6fe43cd805e3da2706c258b5d9520c93b"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:798a2c0ca3ca80119d618f760ca2947f897753b7d9da901b1215b6c3a7637980",
+              "sha256": "798a2c0ca3ca80119d618f760ca2947f897753b7d9da901b1215b6c3a7637980"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:90035e05c20b14efb12550b50431b53da8d857ccd5d29ac7fafe8ab0f959d16e",
-              "sha256": "90035e05c20b14efb12550b50431b53da8d857ccd5d29ac7fafe8ab0f959d16e"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:0adcd4c3164162705fd7290557587fdfb0e271b9d9b5dcbca75b219b4ca5da41",
+              "sha256": "0adcd4c3164162705fd7290557587fdfb0e271b9d9b5dcbca75b219b4ca5da41"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:4831766b1d63c27c19f6c84e2f74a2c2b1131a69f818467fab6b84536ca26d90",
-              "sha256": "4831766b1d63c27c19f6c84e2f74a2c2b1131a69f818467fab6b84536ca26d90"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:7505b924f98e5e1b7e412b1a37f91d72ebed4b8d9b9ad65bf2ca5179d601a949",
+              "sha256": "7505b924f98e5e1b7e412b1a37f91d72ebed4b8d9b9ad65bf2ca5179d601a949"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:f6946b453ca295f25ba4c855fe51e65c23b29983dc97e4f8b14c21a8b4854985",
-              "sha256": "f6946b453ca295f25ba4c855fe51e65c23b29983dc97e4f8b14c21a8b4854985"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:cffdf96390bc57c53009245a200fed79275ae1d202ad2fd13d4f4a66a48aedd3",
+              "sha256": "cffdf96390bc57c53009245a200fed79275ae1d202ad2fd13d4f4a66a48aedd3"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:d8c0fc6ac9824ad9c77d566018db78c252ac3c2ce0652c72d8b6d0b861867034",
-              "sha256": "d8c0fc6ac9824ad9c77d566018db78c252ac3c2ce0652c72d8b6d0b861867034"
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:69b8ad022d6ed8b241806c16b7c066272a6708ccfbfb8bc19d975b8c379018b3",
+              "sha256": "69b8ad022d6ed8b241806c16b7c066272a6708ccfbfb8bc19d975b8c379018b3"
             }
           }
         }
@@ -2165,8 +2075,7 @@
       ],
       "dependencies": [
         "gettext",
-        "pcre2",
-        "libiconv"
+        "pcre2"
       ],
       "test_dependencies": [],
       "recommended_dependencies": [],
@@ -2231,7 +2140,7 @@
       ],
       "linked_keg": "2.53.0",
       "pinned": false,
-      "outdated": false,
+      "outdated": true,
       "deprecated": false,
       "deprecation_date": null,
       "deprecation_reason": null,
@@ -2246,19 +2155,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/git.rb",
       "ruby_source_checksum": {
-        "sha256": "b649765dcad9946fb4073b30a3da47a67b6dfaa2f0557b4bb790edd231d4f943"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
+        "sha256": "c516f9177aadcf563490b206c4dd6da5bab02414201cac0af8073095923a817e"
       }
     },
     {
@@ -2381,19 +2281,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/github-mcp-server.rb",
       "ruby_source_checksum": {
         "sha256": "567b8ff4530ce61a9069897a146dd6361145de1cc32bbce87689d7f322d99227"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -2536,7 +2427,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/go.rb",
       "ruby_source_checksum": {
         "sha256": "038987f12283d56f8dcad15bf5da06a1dc3fb1d502a9df791fe25db4aa2cf10c"
@@ -2671,19 +2562,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/g/gofumpt.rb",
       "ruby_source_checksum": {
         "sha256": "5d01f6e44f608aac629102d4b192bd0ba2c5c06c109f9f31d6f44b2d4bf1dc74"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -2801,7 +2683,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/h/hdrhistogram_c.rb",
       "ruby_source_checksum": {
         "sha256": "8b9124c84378b8d6f93ed12fadc58d69b2b3e48e18f3acd3da9fb4c63b771179"
@@ -2940,7 +2822,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/i/icu4c@78.rb",
       "ruby_source_checksum": {
         "sha256": "5b6df5bf5b9ef6eb278b08fae0f73b2dfbf434277d39e4e2f89951f3ac05c3cb"
@@ -3085,7 +2967,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/j/jq.rb",
       "ruby_source_checksum": {
         "sha256": "953d3c89fb788a936b03f37dc1a23ee32e0d1b552b9a91f22f406680cbc72339"
@@ -3249,7 +3131,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/k/krb5.rb",
       "ruby_source_checksum": {
         "sha256": "1087a0d5126d886c8aefbbf811a5a5252abc6f2a5c4ec032dc9e6183cc6a74d1"
@@ -3379,7 +3261,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libiconv.rb",
       "ruby_source_checksum": {
         "sha256": "e61c78f5b44a082c1803d8cb78ec1a122593c6bdc82cf26305b056583079dfce"
@@ -3523,7 +3405,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libnghttp2.rb",
       "ruby_source_checksum": {
         "sha256": "84f0d7e9d99daedbd5d5e07a668677f4f9b32b4589a1b7b7405c1d7b1e63e1b4"
@@ -3663,19 +3545,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libnghttp3.rb",
       "ruby_source_checksum": {
         "sha256": "ec93d405cc990f19191a867f75272d80f81acda7b031d9126c506f0a3dff33fd"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -3817,19 +3690,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libngtcp2.rb",
       "ruby_source_checksum": {
         "sha256": "e7836cf74861e74b70fb0d3d12bb0b58cbabb75165485098bb993fd96bb3ed1e"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -3945,7 +3809,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libunistring.rb",
       "ruby_source_checksum": {
         "sha256": "ada824139c46416d941760e364c6af1a6e9221fc6b78b6bdff9d9d91f7128fd7"
@@ -4072,19 +3936,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/lib/libuv.rb",
       "ruby_source_checksum": {
         "sha256": "9072d1ecc33dde87de83627b2f9548a6d254ec4c19e551504c4c1f3e891df3d4"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -4202,7 +4057,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/l/llhttp.rb",
       "ruby_source_checksum": {
         "sha256": "9448adbf5542a73727ca4c6f5ddf00ccb456d8ae965887450b1823d3579311f0"
@@ -4356,7 +4211,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/l/lz4.rb",
       "ruby_source_checksum": {
         "sha256": "befc4a1ead0d44e71245e1e90efcf232ff53a144016daa7ae3af316fffd604c6"
@@ -4517,19 +4372,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/m/mkcert.rb",
       "ruby_source_checksum": {
         "sha256": "081dc0f5b5b3ec2deb376b7a896786b3726e8afd4dbb78096c3355e5d35dbc08"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -4667,7 +4513,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/m/mpdecimal.rb",
       "ruby_source_checksum": {
         "sha256": "d5f000c5e5a3639b6a870be3a715298c777a74fdc008751eb5d3124875be037d"
@@ -4789,7 +4635,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/n/ncurses.rb",
       "ruby_source_checksum": {
         "sha256": "edf2a22077ce4f8fc7131c5208329680d07456cb66c6419c4ac4d826e956cb02"
@@ -4842,38 +4688,38 @@
       "skip_livecheck": false,
       "bottle": {
         "stable": {
-          "rebuild": 0,
+          "rebuild": 1,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:6b4bc59a4f2e71ebeb959a43e60f145a47aa9cf6596a7de4b6ab70fd18e33d66",
-              "sha256": "6b4bc59a4f2e71ebeb959a43e60f145a47aa9cf6596a7de4b6ab70fd18e33d66"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:12aeac1d868bcb3610f8c27978a40c796bbf60f1da79623618b582e612c72f98",
+              "sha256": "12aeac1d868bcb3610f8c27978a40c796bbf60f1da79623618b582e612c72f98"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:cf1d44f4c13aa6162d6bb2a89e1c4baffc061b88e791b6b7fd47ce5fd448a72e",
-              "sha256": "cf1d44f4c13aa6162d6bb2a89e1c4baffc061b88e791b6b7fd47ce5fd448a72e"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:dc795ee675479fe6b71503f1f0c801ceb1823d82a63c08f9173b67708c241877",
+              "sha256": "dc795ee675479fe6b71503f1f0c801ceb1823d82a63c08f9173b67708c241877"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:5e3a2fe131f00093b54aa2c63b7ef838f979eb62b75d0cfe7ccb785ba7aee942",
-              "sha256": "5e3a2fe131f00093b54aa2c63b7ef838f979eb62b75d0cfe7ccb785ba7aee942"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:b9c3d573999e0026804859d8502255a36f57da6d51edbe36be08a637064cfdb4",
+              "sha256": "b9c3d573999e0026804859d8502255a36f57da6d51edbe36be08a637064cfdb4"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:4d516a78db46c93f730964ae6b9fc4648f17216c161d7328cacec2462761534f",
-              "sha256": "4d516a78db46c93f730964ae6b9fc4648f17216c161d7328cacec2462761534f"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:f0f04da274a7fcababba13cf43839918f5e5342a8dd46a9605dce8e46ff50408",
+              "sha256": "f0f04da274a7fcababba13cf43839918f5e5342a8dd46a9605dce8e46ff50408"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:0dfe20b9401ef8c9756a925613768a65b4d85dd5de71558c26a8cdefd7a86a8c",
-              "sha256": "0dfe20b9401ef8c9756a925613768a65b4d85dd5de71558c26a8cdefd7a86a8c"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:a9c6479b41aafb4c1e90513bea8eaecb02395703c1a72ef93c5d641b1f91bfe0",
+              "sha256": "a9c6479b41aafb4c1e90513bea8eaecb02395703c1a72ef93c5d641b1f91bfe0"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:758e27e5e7cb9f8d17857f41cf47eefd7d6d6463b3c213b081906aa4c267b7c8",
-              "sha256": "758e27e5e7cb9f8d17857f41cf47eefd7d6d6463b3c213b081906aa4c267b7c8"
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:4fad79e85fd0cc8a4012d565297cf4610677ea6dfb2031423a1340e8e014680d",
+              "sha256": "4fad79e85fd0cc8a4012d565297cf4610677ea6dfb2031423a1340e8e014680d"
             }
           }
         }
@@ -5110,19 +4956,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/n/node.rb",
       "ruby_source_checksum": {
-        "sha256": "8f232e992df41ea1d499a59332251c6762da549de0ec181a9bccc9ad5ec14811"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
+        "sha256": "24065611131a2c29dc4a653aeb585b00a86ba75265cdd0d4983ec0a5c882ccaa"
       }
     },
     {
@@ -5408,7 +5245,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/n/node@22.rb",
       "ruby_source_checksum": {
         "sha256": "bb0bb3fd4b8f69381fe57a31a7eb248b670f77bfa7e54e37b217308687658d80"
@@ -5546,19 +5383,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/o/oniguruma.rb",
       "ruby_source_checksum": {
         "sha256": "000d1e69c6152004cb90bc20f3dbe0e2873eca43d471e4f067e16c362c307158"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -5572,17 +5400,17 @@
       "license": null,
       "homepage": "https://github.com/anomalyco/opencode",
       "versions": {
-        "stable": "1.2.27",
+        "stable": "1.3.0",
         "head": null,
         "bottle": false
       },
       "urls": {
         "stable": {
-          "url": "https://github.com/anomalyco/opencode/releases/download/v1.2.27/opencode-darwin-arm64.zip",
+          "url": "https://github.com/anomalyco/opencode/releases/download/v1.3.0/opencode-darwin-arm64.zip",
           "tag": null,
           "revision": null,
           "using": null,
-          "checksum": "fa680fa79086c7509d3a2c21e49c9264b803da7c0f1b7807ed842b8e37325597"
+          "checksum": "32ea91aa613e15ab3d15e4d294b34f349c048c528fc276e935f6ca38c3344b79"
         }
       },
       "revision": 0,
@@ -5656,10 +5484,10 @@
       "disable_args": null,
       "post_install_defined": false,
       "service": null,
-      "tap_git_head": "496dc02ad8771e088d1eab1a859258fc54027bf8",
+      "tap_git_head": "a815b0f34f50329406b9775eb407d3e558cd82fa",
       "ruby_source_path": "opencode.rb",
       "ruby_source_checksum": {
-        "sha256": "e6be3da59c4d996c392ec8579bd2f58cce3ce89eaf5827bb94cf6f7f5d7eb09d"
+        "sha256": "4f9d7e73eaf2bb08b05189de49f6b3b8625d9177dd0b36dd0315eb42b5317ecc"
       }
     },
     {
@@ -5813,7 +5641,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/o/openssl@3.rb",
       "ruby_source_checksum": {
         "sha256": "d89772a7b87a645bc4888947ad6cd87f5af07896f76156812021d0744949bf1c"
@@ -5951,7 +5779,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/p/pcre2.rb",
       "ruby_source_checksum": {
         "sha256": "36090011da1e4b86f55a62ee73bb2d91b3b339bb73ecd49b68b38c0772b385b8"
@@ -6100,7 +5928,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/p/pnpm.rb",
       "ruby_source_checksum": {
         "sha256": "08d4fd68272e1abd83a2ed621c6be7a235d59af529a1c3ab500297253fd2b06d"
@@ -6316,7 +6144,7 @@
         "log_path": "/opt/homebrew/var/log/postgresql@14.log",
         "error_log_path": "/opt/homebrew/var/log/postgresql@14.log"
       },
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/p/postgresql@14.rb",
       "ruby_source_checksum": {
         "sha256": "d134976e6726d67aafd82fed6e84aa8e7fa0bb52c408032cbbefc4aecc6a9f9f"
@@ -6520,7 +6348,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/p/python@3.11.rb",
       "ruby_source_checksum": {
         "sha256": "c1cdaacf052b79c8fc3a7517d528103970ea217e369e9053abd9b29a50cf0e36"
@@ -6656,7 +6484,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/r/readline.rb",
       "ruby_source_checksum": {
         "sha256": "6bafe386f0a06452975d6a2c83ad292af7d2921b62655483fd677a4435bfeab0"
@@ -6797,19 +6625,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/r/ripgrep.rb",
       "ruby_source_checksum": {
         "sha256": "477b5ac440bae34815c588a96642f800cb9a7fee236bcdeb7880de7396bdcdf7"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -6943,19 +6762,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/r/rustup.rb",
       "ruby_source_checksum": {
         "sha256": "52550679ee8db3169a22eeb70dcf88f486dab033c049cb2386590faabcd6a8f9"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -7098,19 +6908,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/s/simdjson.rb",
       "ruby_source_checksum": {
         "sha256": "196df1176c29bb567cb3eb8cd3319be209831f46fd4203c959edb5ea3a1effca"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -7251,19 +7052,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/s/simdutf.rb",
       "ruby_source_checksum": {
         "sha256": "77748e4a7c837263e7abff00effd4a54da28ed6e6d599622ce1d4d2a33554cd9"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -7386,19 +7178,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/s/sqlc.rb",
       "ruby_source_checksum": {
         "sha256": "813fa2e4c70259422bc3aab9000c6f6292a8e28508dc70f1d21fcd15843f870b"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -7559,7 +7342,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/s/sqlite.rb",
       "ruby_source_checksum": {
         "sha256": "fcdd890ed0fc5bf525f1fd0e899c9b3bcd3e0c2d04e4f05b5aaeed2a1398187e"
@@ -7687,19 +7470,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/s/starship.rb",
       "ruby_source_checksum": {
         "sha256": "47b76d769875bcf773871308e86faa90c559f42a9185897fa4ec55a7acd3575d"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -7815,7 +7589,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/t/tree.rb",
       "ruby_source_checksum": {
         "sha256": "14d099c7f38e8b1cd6f7a302bb1553d06bf6148d33ffb954c679288da66bd7b4"
@@ -7985,7 +7759,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/u/ugrep.rb",
       "ruby_source_checksum": {
         "sha256": "fb345621eb5852cd03eb4b6882246286509cc9672b964e0494be40fe059b9e71"
@@ -8002,17 +7776,17 @@
       "license": "Apache-2.0 OR MIT",
       "homepage": "https://docs.astral.sh/uv/",
       "versions": {
-        "stable": "0.10.12",
+        "stable": "0.11.0",
         "head": "HEAD",
         "bottle": true
       },
       "urls": {
         "stable": {
-          "url": "https://github.com/astral-sh/uv/archive/refs/tags/0.10.12.tar.gz",
+          "url": "https://github.com/astral-sh/uv/archive/refs/tags/0.11.0.tar.gz",
           "tag": null,
           "revision": null,
           "using": null,
-          "checksum": "73c256e80ac1b6e030aeb0643a80d84c32f327fbe09450ff39069103503f46c9"
+          "checksum": "d61c168d4a3b0dad3c2c2a73c591fe7a2bbad96ea5a5e15f857d03308e15ca50"
         },
         "head": {
           "url": "https://github.com/astral-sh/uv.git",
@@ -8033,33 +7807,33 @@
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:8f94f9643ed9a85c88d7fd08e8f060eae98bec1b2733c7c6382b39819bf3bfd5",
-              "sha256": "8f94f9643ed9a85c88d7fd08e8f060eae98bec1b2733c7c6382b39819bf3bfd5"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:c0ed00b95bcb1d50ea56294ce38d5e40f95cf47d9548dd71f6c2eb2692675d66",
+              "sha256": "c0ed00b95bcb1d50ea56294ce38d5e40f95cf47d9548dd71f6c2eb2692675d66"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:0b5f0a9dd712a747fae5bfa57e797b0e6b6bfefeaa0c541d96988c7060158859",
-              "sha256": "0b5f0a9dd712a747fae5bfa57e797b0e6b6bfefeaa0c541d96988c7060158859"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:b60c1c171db7b12de22ced61427f226ca1f2c45bd6574d58ea52617ea844d661",
+              "sha256": "b60c1c171db7b12de22ced61427f226ca1f2c45bd6574d58ea52617ea844d661"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:09ac0653c7a11b00b5b30bc8ad3a0aa89a1554604dd6ec2d48197c1ccc04cfef",
-              "sha256": "09ac0653c7a11b00b5b30bc8ad3a0aa89a1554604dd6ec2d48197c1ccc04cfef"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:c2ab08810fd098a0a91bffe85294cdbae5966cbae0c9ab29b19b59ea7b9f0712",
+              "sha256": "c2ab08810fd098a0a91bffe85294cdbae5966cbae0c9ab29b19b59ea7b9f0712"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:18d256ae0541bf87dff773ac7e6eb09a3ac4d6d326122ba70fe0b6794a1b075b",
-              "sha256": "18d256ae0541bf87dff773ac7e6eb09a3ac4d6d326122ba70fe0b6794a1b075b"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:a95a5f22bb31b30a2ee13bf4e950b3b00045dccd9c1e0aa70712f72747b97966",
+              "sha256": "a95a5f22bb31b30a2ee13bf4e950b3b00045dccd9c1e0aa70712f72747b97966"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:1af13fae105a6768c0e84e135836c377c05dd1a9a120c6d96309517aa1138461",
-              "sha256": "1af13fae105a6768c0e84e135836c377c05dd1a9a120c6d96309517aa1138461"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:722510d4ed3c444172a32fa5a63429ee37f35ad2129aef1394f38bc5569539f0",
+              "sha256": "722510d4ed3c444172a32fa5a63429ee37f35ad2129aef1394f38bc5569539f0"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:754c8d972ec954503d5d9e94ffe0898b7489769da300a5578ff590f7ccfea3f3",
-              "sha256": "754c8d972ec954503d5d9e94ffe0898b7489769da300a5578ff590f7ccfea3f3"
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:2d8f564666f18c5a022289ccc67eaa99bd7f09ee1cd074337e7b75d7cf51c16e",
+              "sha256": "2d8f564666f18c5a022289ccc67eaa99bd7f09ee1cd074337e7b75d7cf51c16e"
             }
           }
         }
@@ -8122,19 +7896,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/u/uv.rb",
       "ruby_source_checksum": {
-        "sha256": "9e9441fb8a64feabb294aad29c0c505337fcef9d144aa378d2e5cda470a566f9"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
+        "sha256": "d647afb9360adb731f8ed8b13b2d9a28bbd955fa0b28a656baec68f780e68181"
       }
     },
     {
@@ -8268,19 +8033,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/u/uvwasi.rb",
       "ruby_source_checksum": {
         "sha256": "f14d87f74d6b2126f0a1b479d364a44a8f24302f5fed9316831e78883b7a65f8"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     },
     {
@@ -8406,7 +8162,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/x/xz.rb",
       "ruby_source_checksum": {
         "sha256": "d7f180088a072a9e704abd49f9201bca6e7f4b0b78607b16983246b6b922f824"
@@ -8508,7 +8264,7 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/y/yarn.rb",
       "ruby_source_checksum": {
         "sha256": "eb78d57a21b7091544800aacc9aa32498382caa03a48a25ee8f4d9641a1129a0"
@@ -8666,19 +8422,10 @@
       "disable_args": null,
       "post_install_defined": true,
       "service": null,
-      "tap_git_head": "32d9e41f935cc6a67770ab8dc8f709e18ff90486",
+      "tap_git_head": "558c330013d0d8489add301ff8ac437f5c19887b",
       "ruby_source_path": "Formula/z/zstd.rb",
       "ruby_source_checksum": {
         "sha256": "93047c68a5e0f08235821b5a0276b72ea8f25509dcc804b3d59f18a4f2c08298"
-      },
-      "head_dependencies": {
-        "build_dependencies": [],
-        "dependencies": [],
-        "test_dependencies": [],
-        "recommended_dependencies": [],
-        "optional_dependencies": [],
-        "uses_from_macos": [],
-        "uses_from_macos_bounds": []
       }
     }
   ],
@@ -8776,7 +8523,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/1/1password.rb",
       "ruby_source_checksum": {
@@ -8850,7 +8597,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/1/1password-cli.rb",
       "ruby_source_checksum": {
@@ -8932,7 +8679,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/alfred.rb",
       "ruby_source_checksum": {
@@ -9002,7 +8749,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/another-redis-desktop-manager.rb",
       "ruby_source_checksum": {
@@ -9019,11 +8766,11 @@
       ],
       "desc": "Platform for API documentation, debugging, and testing",
       "homepage": "https://github.com/apifox/apifox",
-      "url": "https://file-assets.apifox.com/download/2.8.16/Apifox-macOS-arm64-2.8.16.dmg",
+      "url": "https://file-assets.apifox.com/download/2.8.20/Apifox-macOS-arm64-2.8.20.dmg",
       "url_specs": {
         "verified": "file-assets.apifox.com/download/"
       },
-      "version": "2.8.16",
+      "version": "2.8.20",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -9032,7 +8779,7 @@
       "bundle_version": "2.7.44",
       "bundle_short_version": "2.7.44",
       "outdated": false,
-      "sha256": "dcb4798c46771537c876891fba31f44c9d5ad4ff865eb794fe7153f73b9bba1d",
+      "sha256": "ad9c3fc53d5b3eceebce6da9bf5feb869f1cffa007a57f7a32c55d21b743b7bd",
       "artifacts": [
         {
           "app": [
@@ -9075,11 +8822,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/apifox.rb",
       "ruby_source_checksum": {
-        "sha256": "fbca27ad43035822cfb17eb0fc9d5852d6ca0a0598311a15169e053b323b3f97"
+        "sha256": "17f1a06392dce53cdc0fc055bbdcdb6e8cb922551ab00acaa0f67600e95c2e82"
       }
     },
     {
@@ -9159,7 +8906,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/arc.rb",
       "ruby_source_checksum": {
@@ -9232,7 +8979,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/asana.rb",
       "ruby_source_checksum": {
@@ -9307,7 +9054,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/a/athas.rb",
       "ruby_source_checksum": {
@@ -9392,7 +9139,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/c/caffeine.rb",
       "ruby_source_checksum": {
@@ -9465,7 +9212,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/c/clash-verge-rev.rb",
       "ruby_source_checksum": {
@@ -9543,7 +9290,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/c/claude-code.rb",
       "ruby_source_checksum": {
@@ -9616,7 +9363,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/c/codex.rb",
       "ruby_source_checksum": {
@@ -9708,7 +9455,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/c/codex-app.rb",
       "ruby_source_checksum": {
@@ -9725,9 +9472,9 @@
       ],
       "desc": "AI-powered software engineering agent by Factory",
       "homepage": "https://docs.factory.ai/cli/getting-started/overview",
-      "url": "https://downloads.factory.ai/factory-cli/releases/0.83.0/darwin/arm64/droid",
+      "url": "https://downloads.factory.ai/factory-cli/releases/0.84.0/darwin/arm64/droid",
       "url_specs": {},
-      "version": "0.83.0",
+      "version": "0.84.0",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -9736,7 +9483,7 @@
       "bundle_version": null,
       "bundle_short_version": null,
       "outdated": true,
-      "sha256": "c14d4b3bcdc007f7b646e5b6fd909cbb486f68e304e8adc355b8c0444aa0328d",
+      "sha256": "a3ce47db4aa7e3c585809c3c980c2c4535f2ffc9bea61be3d9e2cbc3a2125159",
       "artifacts": [
         {
           "binary": [
@@ -9781,11 +9528,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/d/droid.rb",
       "ruby_source_checksum": {
-        "sha256": "d852defb7d348b6413e8e068f64f9fe7e5a1721d87225ae5d7ec68043c82a6c6"
+        "sha256": "b09e96b6b464dba4e44182af08dbc833c72fedcccffa2bbe6fe19e35ee345f99"
       }
     },
     {
@@ -9856,7 +9603,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/e/easydict.rb",
       "ruby_source_checksum": {
@@ -9947,9 +9694,9 @@
       ],
       "desc": "Collaborative team software",
       "homepage": "https://www.figma.com/",
-      "url": "https://desktop.figma.com/mac-arm/Figma-126.1.4.zip",
+      "url": "https://desktop.figma.com/mac-arm/Figma-126.2.9.zip",
       "url_specs": {},
-      "version": "126.1.4",
+      "version": "126.2.9",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -9958,7 +9705,7 @@
       "bundle_version": "126.1.2",
       "bundle_short_version": "126.1.2",
       "outdated": true,
-      "sha256": "d7c7eaadf637fab6ce89d3b53be719e3414eb0ff44c64a6ad39ce484439e344f",
+      "sha256": "2cd398313b84675acb9767840eabe743a7880214f616b914b6686eb95bc17fde",
       "artifacts": [
         {
           "app": [
@@ -10004,11 +9751,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/f/figma.rb",
       "ruby_source_checksum": {
-        "sha256": "6888b5f6eeabf667fdc1e8afc8671cd7adf0cb3f8f8aee5d3f93059d7d8d57e3"
+        "sha256": "712854c0673369ce33418806f1c83e435981bbc7e6b3e892f7cef521a98679c9"
       }
     },
     {
@@ -10539,7 +10286,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/font/font-j/font-jetbrains-mono-nerd-font.rb",
       "ruby_source_checksum": {
@@ -10622,7 +10369,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/g/git-credential-manager.rb",
       "ruby_source_checksum": {
@@ -10719,7 +10466,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/g/github.rb",
       "ruby_source_checksum": {
@@ -10738,7 +10485,7 @@
       "homepage": "https://www.google.com/chrome/",
       "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
       "url_specs": {},
-      "version": "146.0.7680.154",
+      "version": "146.0.7680.165",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -10819,11 +10566,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/g/google-chrome.rb",
       "ruby_source_checksum": {
-        "sha256": "94563f52d8e4a970f63ade18a7f6b00cc994f592c7a64f6f379bc246a5f76df8"
+        "sha256": "eab5ef1579d2a0abd9420a34710df8db7e30b30ae4e1d6623fc5373fb3f28056"
       }
     },
     {
@@ -10907,7 +10654,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/i/iterm2.rb",
       "ruby_source_checksum": {
@@ -11030,7 +10777,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/o/orbstack.rb",
       "ruby_source_checksum": {
@@ -11118,7 +10865,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/q/qq.rb",
       "ruby_source_checksum": {
@@ -11196,7 +10943,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/q/qspace-pro.rb",
       "ruby_source_checksum": {
@@ -11278,7 +11025,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/r/rectangle-pro.rb",
       "ruby_source_checksum": {
@@ -11374,7 +11121,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/s/slack.rb",
       "ruby_source_checksum": {
@@ -11451,7 +11198,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/s/snipaste.rb",
       "ruby_source_checksum": {
@@ -11468,9 +11215,9 @@
       ],
       "desc": "System monitor for the menu bar",
       "homepage": "https://github.com/exelban/stats",
-      "url": "https://github.com/exelban/stats/releases/download/v2.12.4/Stats.dmg",
+      "url": "https://github.com/exelban/stats/releases/download/v2.12.5/Stats.dmg",
       "url_specs": {},
-      "version": "2.12.4",
+      "version": "2.12.5",
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
@@ -11479,7 +11226,7 @@
       "bundle_version": "758",
       "bundle_short_version": "2.12.4",
       "outdated": false,
-      "sha256": "ca8f5e8913d7c55fc4ebbb4fb8d130a92c5fa6f6aea65bbe0fc4d0190dd05557",
+      "sha256": "87f8c955c9d236f170bc87d7fea9a1c859f9ccfb569e414d9036d40b4bf83d1e",
       "artifacts": [
         {
           "uninstall": [
@@ -11541,11 +11288,11 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/s/stats.rb",
       "ruby_source_checksum": {
-        "sha256": "f16948202b95f540a9263a1cc9ea82b1ef4a4f778a54e134a4b5f7556233242b"
+        "sha256": "e3ad03e0c0bc2c788f0c2220d19665cc8a0c4fd026378883dc34d8e33a0a6e6b"
       }
     },
     {
@@ -11638,7 +11385,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/v/visual-studio-code.rb",
       "ruby_source_checksum": {
@@ -11726,7 +11473,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/w/webstorm.rb",
       "ruby_source_checksum": {
@@ -11752,7 +11499,7 @@
       "skip_livecheck": false,
       "installed": "4.1.0.34,29721",
       "installed_time": 1760912478,
-      "bundle_version": "36571",
+      "bundle_version": "36603",
       "bundle_short_version": "4.1.8",
       "outdated": false,
       "sha256": "4305970f2263a8dd8207574e6536f952fe2a538cbc925525b144b5372e8cfda7",
@@ -11816,7 +11563,7 @@
       "disable_replacement_formula": null,
       "disable_replacement_cask": null,
       "disable_args": null,
-      "tap_git_head": "71320dbb986eace593acd56d0717a512003e87e5",
+      "tap_git_head": "03ae1dd0fe30cfec07548d6c1438daefc94923ac",
       "languages": [],
       "ruby_source_path": "Casks/w/wechat.rb",
       "ruby_source_checksum": {
