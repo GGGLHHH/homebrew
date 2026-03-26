@@ -9,7 +9,6 @@ athas
 caffeine
 cc-switch
 clash-verge-rev
-claude-code
 codex
 codex-app
 droid
