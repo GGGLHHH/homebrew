@@ -2,6 +2,7 @@
 1password-cli
 alfred
 another-redis-desktop-manager
+antigravity
 apifox
 arc
 asana
